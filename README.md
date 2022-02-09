@@ -1,6 +1,8 @@
 # Introduction
 this repo just fork from <https://github.com/tzutalin/labelImg> and add some personal functions
 
+![](./demo/labelimg_demo.png)
+
 # Changelog
 ## 新增快捷模式
 即,确定要进行快速标注的类别,将除开awds之外的任意字母设置成该类别的快捷键,按该键的效果等同于临时开启单例模式,同时完全兼容现有的标注方式.
@@ -12,6 +14,8 @@ this repo just fork from <https://github.com/tzutalin/labelImg> and add some per
 - 开启快捷方式是否成功的信息会显示在最下方的状态栏中
 - 设置成空值可以关闭该功能
 - 快捷模式和单例模式互斥
+
+![](./demo/labelimg_demo2.png)
 
 **现在记录样本到1~9的txt时,会在最下方的状态栏中提示**
 
